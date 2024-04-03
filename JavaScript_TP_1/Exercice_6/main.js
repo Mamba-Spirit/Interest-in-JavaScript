@@ -12,7 +12,5 @@ function histogramme(tab){
 }
 
 let my_array = [20,1,13,8,10,6,15,25,2,10,14,18,9];
-let tab = [18,13,18,20,18];
-
 histogramme(my_array);
 
