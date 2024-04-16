@@ -128,6 +128,3 @@ console.log("La taille moyenne des mots du text est : " + average);
 console.log(letter(fact));
 var trie = letter(fact);
 console.log(trie.sort());
-
-
-// Expected output: "fox"
